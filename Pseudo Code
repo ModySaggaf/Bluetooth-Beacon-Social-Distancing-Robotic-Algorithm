@@ -1,9 +1,9 @@
-Buy a blutooth beacon
-Program an app that detects bluetooth beacons' IDs
-Make a loop to count the bluetooth beacons
-If there are more than 10 bluetooth beacons
+Buy a Bluetooth beacon
+Program an app that detects Bluetooth beacons' IDs
+Make a loop to count the Bluetooth beacons
+If there are more than 10 Bluetooth beacons
     Play an MP3 file to alert people to keep a distance between each other
-If there are 10 or less bluetooth beacons
+If there are 10 or less Bluetooth beacons
    Count again
 If a problem occurs
     Send an email/SMS
