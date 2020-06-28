@@ -6,6 +6,6 @@ If there are more than 10 bluetooth beacons
 If there are 10 or less bluetooth beacons
    Count again
 If a problem occurs
-    Send an emial/SMS
-Conenct the robot to a database
+    Send an email/SMS
+Connect the robot to a database
 Access the database via a website
